@@ -54,33 +54,15 @@
                 };
 
                 layer_3 {
-                        display-name = "Layer 3";
-                        bindings = <
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-                  &trans &trans &trans &trans &trans &trans
-                        >;
+                        status = "reserved";
                 };
 
                 layer_4 {
-                        display-name = "Layer 4";
-                        bindings = <
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-                  &trans &trans &trans &trans &trans &trans
-                        >;
+                        status = "reserved";
                 };
 
                 layer_5 {
-                        display-name = "Layer 5";
-                        bindings = <
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
-                  &trans &trans &trans &trans &trans &trans
-                        >;
+                        status = "reserved";
                 };
         };
 };
