@@ -52,5 +52,35 @@
                              &kp LGUI &trans   &kp SPACE   &kp RET   &trans    &kp RALT
                         >;
                 };
+
+                layer_3 {
+                        display-name = "Layer 3";
+                        bindings = <
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                  &trans &trans &trans &trans &trans &trans
+                        >;
+                };
+
+                layer_4 {
+                        display-name = "Layer 4";
+                        bindings = <
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                  &trans &trans &trans &trans &trans &trans
+                        >;
+                };
+
+                layer_5 {
+                        display-name = "Layer 5";
+                        bindings = <
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+   &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans &trans
+                  &trans &trans &trans &trans &trans &trans
+                        >;
+                };
         };
 };
